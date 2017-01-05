@@ -10,3 +10,8 @@
 **Link(s) to work**
 (none right now)
 
+### Day 2: January 4, 2017 (Wednesday)
+
+**Today's Progress**: Continued learning Preact with the Preact Boilerplate / Starter Kit.
+
+**Thoughts** The given file layout is confusing to me, but I want to learn the "right" way to lay out my files. I probably need to look into webpack or something.
