@@ -15,3 +15,8 @@
 **Today's Progress**: Continued learning Preact with the Preact Boilerplate / Starter Kit.
 
 **Thoughts** The given file layout is confusing to me, but I want to learn the "right" way to lay out my files. I probably need to look into webpack or something.
+
+### Day 3: January 5, 2017 (Thursday)
+
+**Today's Progress**: In the middle of learning how routing in Preact (preact-router) works.
+
