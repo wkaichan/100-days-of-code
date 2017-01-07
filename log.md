@@ -20,3 +20,6 @@
 
 **Today's Progress**: In the middle of learning how routing in Preact (preact-router) works.
 
+### Day 4: January 6, 2017 (Friday)
+
+**Today's Progress**: Learned more about Node.js.
