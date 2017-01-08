@@ -23,3 +23,7 @@
 ### Day 4: January 6, 2017 (Friday)
 
 **Today's Progress**: Learned more about Node.js.
+
+### Day 5: January 7, 2017 (Saturday)
+
+**Today's Progress**: Learned more about Node.js.
