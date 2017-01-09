@@ -27,3 +27,7 @@
 ### Day 5: January 7, 2017 (Saturday)
 
 **Today's Progress**: Learned more about Node.js.
+
+### Day 6: January 8, 2017 (Sunday)
+
+**Today's Progress**: Learned how to use Webpack and Babel.
