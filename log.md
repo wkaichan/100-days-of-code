@@ -31,3 +31,8 @@
 ### Day 6: January 8, 2017 (Sunday)
 
 **Today's Progress**: Learned how to use Webpack and Babel.
+
+### Day 7: January 9, 2017 (Monday)
+
+**Today's Progress**: Learned more about Webpack. Put together a minimal project folder with Preact and preact-compat.
+
