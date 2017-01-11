@@ -36,3 +36,8 @@
 
 **Today's Progress**: Learned more about Webpack. Put together a minimal project folder with Preact and preact-compat.
 
+### Day 8: January 10, 2017 (Tuesday)
+
+**Today's Progress**: Learned how to use WebSocket and Socket.IO.
+
+
