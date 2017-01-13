@@ -43,3 +43,9 @@
 ### Day 9: January 11, 2017 (Wednesday)
 
 **Today's Progress**: Learned how to use Socket.IO (socket.io and socket.io-client).
+
+### Day 10: January 12, 2017 (Thursday)
+
+**Today's Progress**: Learned how to use Socket.IO (socket.io and socket.io-client).
+
+
