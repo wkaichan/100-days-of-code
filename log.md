@@ -48,4 +48,6 @@
 
 **Today's Progress**: Learned how to use Socket.IO (socket.io and socket.io-client).
 
+### Day 11: January 13, 2017 (Friday)
 
+**Today's Progress**: Restarted work on some simple game that I have been working on intermittently.
