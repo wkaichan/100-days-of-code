@@ -51,3 +51,7 @@
 ### Day 11: January 13, 2017 (Friday)
 
 **Today's Progress**: Restarted work on some simple game that I have been working on intermittently.
+
+### Day 12: January 14, 2017 (Saturday)
+
+**Today's Progress**: Worked on some simple game.
