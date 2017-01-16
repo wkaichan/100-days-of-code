@@ -55,3 +55,7 @@
 ### Day 12: January 14, 2017 (Saturday)
 
 **Today's Progress**: Worked on some simple game.
+
+### Day 13: January 15, 2017 (Sunday)
+
+**Today's Progress**: Worked on some simple game.
