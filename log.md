@@ -63,3 +63,7 @@
 ### Day 14: January 16, 2017 (Monday)
 
 **Today's Progress**: Worked on some simple game.
+
+### Day 15: January 17, 2017 (Tuesday)
+
+**Today's Progress**: Worked on some simple game.
