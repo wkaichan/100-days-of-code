@@ -67,3 +67,9 @@
 ### Day 15: January 17, 2017 (Tuesday)
 
 **Today's Progress**: Worked on some simple game.
+
+### Day 16: January 18, 2017 (Wednesday)
+
+**Today's Progress**: Worked on some simple game.
+
+
