@@ -72,4 +72,6 @@
 
 **Today's Progress**: Worked on some simple game.
 
+### Day 17: January 19, 2017 (Thursday)
 
+**Today's Progress**: Worked on some simple game.
