@@ -75,3 +75,7 @@
 ### Day 17: January 19, 2017 (Thursday)
 
 **Today's Progress**: Worked on some simple game.
+
+### Day 18: January 20, 2017 (Friday)
+
+**Today's Progress**: Learned how to write unit tests with Mocha and Chai.
