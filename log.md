@@ -83,3 +83,7 @@
 ### Day 19: January 21, 2017 (Saturday)
 
 **Today's Progress**: Learned how to write unit tests with Mocha and Chai.
+
+### Day 20: January 22, 2017 (Sunday)
+
+**Today's Progress**: Learned how to write unit tests with Mocha and Chai.
