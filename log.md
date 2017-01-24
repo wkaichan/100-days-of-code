@@ -87,3 +87,7 @@
 ### Day 20: January 22, 2017 (Sunday)
 
 **Today's Progress**: Learned how to write unit tests with Mocha and Chai.
+
+### Day 21: January 23, 2017 (Monday)
+
+**Today's Progress**: Worked on a NextBus plugin for BitBar (https://getbitbar.com/).
