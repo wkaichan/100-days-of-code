@@ -91,3 +91,7 @@
 ### Day 21: January 23, 2017 (Monday)
 
 **Today's Progress**: Worked on a NextBus plugin for BitBar (https://getbitbar.com/).
+
+### Day 22: January 24, 2017 (Tuesday)
+
+**Today's Progress**: Worked on a NextBus plugin for BitBar (https://getbitbar.com/).
