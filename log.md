@@ -95,3 +95,8 @@
 ### Day 22: January 24, 2017 (Tuesday)
 
 **Today's Progress**: Worked on a NextBus plugin for BitBar (https://getbitbar.com/).
+
+### Day 23: January 25, 2017 (Wednesday)
+
+**Today's Progress**: Did "Rotate for a Max" Kata on CodeWars.
+
