@@ -100,3 +100,6 @@
 
 **Today's Progress**: Did "Rotate for a Max" Kata on CodeWars.
 
+### Day 24: January 26, 2017 (Thursday)
+
+**Today's Progress**: Did "Highest and Lowest" and "Don't give me five!" Kata on CodeWars.
