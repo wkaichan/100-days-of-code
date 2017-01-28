@@ -103,3 +103,7 @@
 ### Day 24: January 26, 2017 (Thursday)
 
 **Today's Progress**: Did "Highest and Lowest" and "Don't give me five!" Kata on CodeWars.
+
+### Day 25: January 27, 2017 (Friday)
+
+**Today's Progress**: Did "Speed Control" Kata on CodeWars. Checked out SolrJ's EmbeddedSolrServer class.
