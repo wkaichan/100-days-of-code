@@ -107,3 +107,7 @@
 ### Day 25: January 27, 2017 (Friday)
 
 **Today's Progress**: Did "Speed Control" Kata on CodeWars. Checked out SolrJ's EmbeddedSolrServer class.
+
+### Day 26: January 28, 2017 (Saturday)
+
+**Today's Progress**: Did "Find the missing letter" and "Bouncing Balls" Kata on CodeWars.
