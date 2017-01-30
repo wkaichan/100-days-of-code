@@ -111,3 +111,7 @@
 ### Day 26: January 28, 2017 (Saturday)
 
 **Today's Progress**: Did "Find the missing letter" and "Bouncing Balls" Kata on CodeWars.
+
+### Day 27: January 29, 2017 (Sunday)
+
+**Today's Progress**: Did "Equal Sides Of An Array" and "Bit Counting" Kata on CodeWars.
