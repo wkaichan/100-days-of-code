@@ -115,3 +115,7 @@
 ### Day 27: January 29, 2017 (Sunday)
 
 **Today's Progress**: Did "Equal Sides Of An Array" and "Bit Counting" Kata on CodeWars.
+
+### Day 28: January 30, 2017 (Monday)
+
+**Today's Progress**: Did "Valid Phone Number" and "Multi-tap Keypad Text Entry on an Old Mobile Phone" Kata on CodeWars.
