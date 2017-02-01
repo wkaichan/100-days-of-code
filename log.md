@@ -119,3 +119,7 @@
 ### Day 28: January 30, 2017 (Monday)
 
 **Today's Progress**: Did "Valid Phone Number" and "Multi-tap Keypad Text Entry on an Old Mobile Phone" Kata on CodeWars.
+
+### Day 29: January 31, 2017 (Tuesday)
+
+**Today's Progress**: Did "Word a10n (abbreviation)" and "Primes in numbers" Kata on CodeWars.
