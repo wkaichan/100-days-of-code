@@ -123,3 +123,7 @@
 ### Day 29: January 31, 2017 (Tuesday)
 
 **Today's Progress**: Did "Word a10n (abbreviation)" and "Primes in numbers" Kata on CodeWars.
+
+### Day 30: February 1, 2017 (Wednesday)
+
+**Today's Progress**: Did "Delta Bits" and "Hamming Numbers" Kata on CodeWars.
