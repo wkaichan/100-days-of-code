@@ -127,3 +127,7 @@
 ### Day 30: February 1, 2017 (Wednesday)
 
 **Today's Progress**: Did "Delta Bits" and "Hamming Numbers" Kata on CodeWars.
+
+### Day 31: February 2, 2017 (Thursday)
+
+**Today's Progress**: Did: "Airport Arrivals/Departures - #1" Kata on CodeWars.
