@@ -131,3 +131,7 @@
 ### Day 31: February 2, 2017 (Thursday)
 
 **Today's Progress**: Did: "Airport Arrivals/Departures - #1" Kata on CodeWars.
+
+### Day 32: February 3, 2017 (Friday)
+
+**Today's Progress**: Did "Directions Reduction" and "Double Cola" Kata on CodeWars.
