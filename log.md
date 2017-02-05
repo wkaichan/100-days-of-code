@@ -135,3 +135,7 @@
 ### Day 32: February 3, 2017 (Friday)
 
 **Today's Progress**: Did "Directions Reduction" and "Double Cola" Kata on CodeWars.
+
+### Day 33: February 4, 2017 (Friday)
+
+**Today's Progress**: Did "Mod4 Regex" and "Roman Numerals Encoder" Kata on CodeWars.
