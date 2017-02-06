@@ -136,6 +136,10 @@
 
 **Today's Progress**: Did "Directions Reduction" and "Double Cola" Kata on CodeWars.
 
-### Day 33: February 4, 2017 (Friday)
+### Day 33: February 4, 2017 (Saturday)
 
 **Today's Progress**: Did "Mod4 Regex" and "Roman Numerals Encoder" Kata on CodeWars.
+
+### Day 34: February 5, 2017 (Sunday)
+
+**Today's Progress**: Did "Binary multiple of 3", "Can you get the loop ?" and "Common Denominators" Kata on CodeWars. Completed the Linear Regression Programming Assignment in Coursera Machine Learning course.
