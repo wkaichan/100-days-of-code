@@ -143,3 +143,9 @@
 ### Day 34: February 5, 2017 (Sunday)
 
 **Today's Progress**: Did "Binary multiple of 3", "Can you get the loop ?" and "Common Denominators" Kata on CodeWars. Completed the Linear Regression Programming Assignment in Coursera Machine Learning course.
+
+### Day 35: February 6, 2017 (Monday)
+
+**Today's Progress**: Did "Catching Car Mileage Numbers" and "Weight for weight" Kata on CodeWars.
+
+
