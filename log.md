@@ -148,4 +148,6 @@
 
 **Today's Progress**: Did "Catching Car Mileage Numbers" and "Weight for weight" Kata on CodeWars.
 
+### Day 36: February 7, 2017 (Tuesday)
 
+**Today's Progress**: Worked on an expanded example of Solr's Request Handler for my blog article.
