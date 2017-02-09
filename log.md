@@ -151,3 +151,7 @@
 ### Day 36: February 7, 2017 (Tuesday)
 
 **Today's Progress**: Worked on an expanded example of Solr's Request Handler for my blog article.
+
+### Day 37: February 8, 2017 (Wednesday)
+
+**Today's Progress**: Worked on an expanded example of Solr's Query Parser for my blog article.
