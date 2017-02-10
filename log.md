@@ -155,3 +155,7 @@
 ### Day 37: February 8, 2017 (Wednesday)
 
 **Today's Progress**: Worked on an expanded example of Solr's Query Parser for my blog article.
+
+### Day 38: February 9, 2017 (Thursday)
+
+**Today's Progress**: Worked on some Solr Search Component.
