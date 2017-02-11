@@ -159,3 +159,7 @@
 ### Day 38: February 9, 2017 (Thursday)
 
 **Today's Progress**: Worked on some Solr Search Component.
+
+### Day 39: February 10, 2017 (Friday)
+
+**Today's Progress**: Worked on "Recover a secret string from random triplets" Kata on CodeWars.
