@@ -163,3 +163,7 @@
 ### Day 39: February 10, 2017 (Friday)
 
 **Today's Progress**: Worked on "Recover a secret string from random triplets" Kata on CodeWars.
+
+### Day 40: February 11, 2017 (Saturday)
+
+**Today's Progress**: Did "Recover a secret string from random triplets" + 3 other katas on CodeWars.
