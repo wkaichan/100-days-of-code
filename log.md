@@ -167,3 +167,7 @@
 ### Day 40: February 11, 2017 (Saturday)
 
 **Today's Progress**: Did "Recover a secret string from random triplets" + 3 other katas on CodeWars.
+
+### Day 41: February 12, 2017 (Sunday)
+
+Completed "Logistic Regression" programming assignment in Coursera Machine Learning course.
