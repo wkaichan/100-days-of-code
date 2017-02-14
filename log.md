@@ -170,4 +170,8 @@
 
 ### Day 41: February 12, 2017 (Sunday)
 
-Completed "Logistic Regression" programming assignment in Coursera Machine Learning course.
+**Today's Progress**: Completed "Logistic Regression" programming assignment in Coursera Machine Learning course.
+
+### Day 42: February 13, 2017 (Monday)
+
+**Today's Progress**: Did "Gap in Primes" and "Twice Linear" Kata on CodeWars.
