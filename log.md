@@ -175,3 +175,7 @@
 ### Day 42: February 13, 2017 (Monday)
 
 **Today's Progress**: Did "Gap in Primes" and "Twice Linear" Kata on CodeWars.
+
+### Day 43: February 14, 2017 (Tuesday)
+
+**Today's Progress**: Worked on implementing a custom Solr function query.
