@@ -183,3 +183,7 @@
 ### Day 44: February 15, 2017 (Wednesday)
 
 **Today's Progress**: Worked on implementing a custom Solr function query.
+
+### Day 45: February 16, 2017 (Wednesday)
+
+**Today's Progress**: Worked on implementing a custom Solr function query.
