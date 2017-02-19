@@ -191,3 +191,7 @@
 ### Day 46: February 17, 2017 (Friday)
 
 **Today's Progress**: Worked on implementing a custom Solr request handler.
+
+### Day 47: February 18, 2017 (Saturday)
+
+**Today's Progress**: Worked on implementing a custom Solr request handler.
