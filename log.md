@@ -195,3 +195,7 @@
 ### Day 47: February 18, 2017 (Saturday)
 
 **Today's Progress**: Worked on implementing a custom Solr request handler.
+
+### Day 48: February 19, 2017 (Sunday)
+
+**Today's Progress**: Did "Multi-class Classification and Neural Networks" programming assignment in Coursera Machine Learning course.
