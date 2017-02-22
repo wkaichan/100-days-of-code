@@ -203,3 +203,7 @@
 ### Day 49: February 20, 2017 (Monday)
 
 **Today's Progress**: Did "Multi-class Classification and Neural Networks" programming assignment in Coursera Machine Learning course.
+
+### Day 50: February 21, 2017 (Tuesday)
+
+**Today's Progress**: Worked on "Neural Networks Learning" programming assignment in Coursera Machine Learning course.
