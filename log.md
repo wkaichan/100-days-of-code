@@ -207,3 +207,11 @@
 ### Day 50: February 21, 2017 (Tuesday)
 
 **Today's Progress**: Worked on "Neural Networks Learning" programming assignment in Coursera Machine Learning course.
+
+### Day 51: February 22, 2017 (Wednesday)
+
+**Today's Progress**: Worked on a NextBus plugin for BitBar (https://getbitbar.com/).
+
+### Day 52: February 23, 2017 (Thursday)
+
+**Today's Progress**: Worked on "Neural Networks Learning" programming assignment in Coursera Machine Learning course.
