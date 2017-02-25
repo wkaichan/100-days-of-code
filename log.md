@@ -215,3 +215,7 @@
 ### Day 52: February 23, 2017 (Thursday)
 
 **Today's Progress**: Worked on "Neural Networks Learning" programming assignment in Coursera Machine Learning course.
+
+### Day 53: February 24, 2017 (Friday)
+
+**Today's Progress**: Worked on implementing a custom Solr request handler.
