@@ -227,3 +227,7 @@
 ### Day 55: February 26, 2017 (Sunday)
 
 **Today's Progress**: Worked on "Neural Networks Learning" programming assignment in Coursera Machine Learning course.
+
+### Day 56: February 27, 2017 (Monday)
+
+**Today's Progress**: Worked on a program for getting data via the IEX API.
