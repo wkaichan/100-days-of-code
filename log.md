@@ -235,3 +235,7 @@
 ### Day 57: February 28, 2017 (Tuesday)
 
 **Today's Progress**: Worked on a program for getting data via the IEX API.
+
+### Day 58: March 1, 2017 (Wednesday)
+
+**Today's Progress**: Worked on "Ten-Pin Bowling" Kata on CodeWars.
