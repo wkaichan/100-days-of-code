@@ -239,3 +239,7 @@
 ### Day 58: March 1, 2017 (Wednesday)
 
 **Today's Progress**: Worked on "Ten-Pin Bowling" Kata on CodeWars.
+
+### Day 59: March 2, 2017 (Thursday)
+
+**Today's Progress**: Worked on "Ten-Pin Bowling" Kata on CodeWars.
