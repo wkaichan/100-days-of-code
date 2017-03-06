@@ -252,3 +252,6 @@
 
 **Today's Progress**: Worked on "Ten-Pin Bowling" Kata on CodeWars.
 
+### Day 62: March 5, 2017 (Sunday)
+
+**Today's Progress**: Completed on "Ten-Pin Bowling" Kata on CodeWars.
