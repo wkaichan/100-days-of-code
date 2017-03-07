@@ -254,4 +254,8 @@
 
 ### Day 62: March 5, 2017 (Sunday)
 
-**Today's Progress**: Completed on "Ten-Pin Bowling" Kata on CodeWars.
+**Today's Progress**: Completed "Ten-Pin Bowling" Kata on CodeWars.
+
+### Day 63: March 6, 2017 (Monday)
+
+**Today's Progress**: Completed "Reverse polish notation calculator" Kata on CodeWars.
