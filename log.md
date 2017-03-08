@@ -259,3 +259,7 @@
 ### Day 63: March 6, 2017 (Monday)
 
 **Today's Progress**: Completed "Reverse polish notation calculator" Kata on CodeWars.
+
+### Day 64: March 7, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Data Reverse" and "Travelling on a Grid" Kata on CodeWars.
