@@ -263,3 +263,7 @@
 ### Day 64: March 7, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Data Reverse" and "Travelling on a Grid" Kata on CodeWars.
+
+### Day 65: March 8, 2017 (Wednesday)
+
+**Today's Progress**: Completed "Exponent method" and 3 other katas on CodeWars.
