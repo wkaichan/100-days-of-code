@@ -267,3 +267,7 @@
 ### Day 65: March 8, 2017 (Wednesday)
 
 **Today's Progress**: Completed "Exponent method" and 3 other katas on CodeWars.
+
+### Day 66: March 9, 2017 (Thursday)
+
+**Today's Progress**: Completed "Title Case" and 2 other katas on CodeWars.
