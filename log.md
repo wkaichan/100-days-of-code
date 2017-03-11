@@ -271,3 +271,7 @@
 ### Day 66: March 9, 2017 (Thursday)
 
 **Today's Progress**: Completed "Title Case" and 2 other katas on CodeWars.
+
+### Day 67: March 10, 2017 (Friday)
+
+**Today's Progress**: Completed "Triangle type" and "Human Readable Time" Kata on CodeWars.
