@@ -275,3 +275,7 @@
 ### Day 67: March 10, 2017 (Friday)
 
 **Today's Progress**: Completed "Triangle type" and "Human Readable Time" Kata on CodeWars.
+
+### Day 68: March 11, 2017 (Saturday)
+
+**Today's Progress**: Completed "Sum of Pairs", "Find the odd int", "Permutations" Kata on CodeWars.
