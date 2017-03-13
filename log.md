@@ -279,3 +279,7 @@
 ### Day 68: March 11, 2017 (Saturday)
 
 **Today's Progress**: Completed "Sum of Pairs", "Find the odd int", "Permutations" Kata on CodeWars.
+
+### Day 69: March 12, 2017 (Sunday)
+
+**Today's Progress**: Completed "Valid Parentheses", "Largest 5 digit number in a series", "The Hashtag Generator" Kata on CodeWars.
