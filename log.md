@@ -283,3 +283,7 @@
 ### Day 69: March 12, 2017 (Sunday)
 
 **Today's Progress**: Completed "Valid Parentheses", "Largest 5 digit number in a series", "The Hashtag Generator" Kata on CodeWars.
+
+### Day 70: March 13, 2017 (Monday)
+
+**Today's Progress**: Completed Human readable duration format" and "Snail" Kata on CodeWars.
