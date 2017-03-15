@@ -286,4 +286,8 @@
 
 ### Day 70: March 13, 2017 (Monday)
 
-**Today's Progress**: Completed Human readable duration format" and "Snail" Kata on CodeWars.
+**Today's Progress**: Completed "Human readable duration format" and "Snail" Kata on CodeWars.
+
+### Day 71: March 14, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Base64 Encoding" Kata on CodeWars.
