@@ -291,3 +291,7 @@
 ### Day 71: March 14, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Base64 Encoding" Kata on CodeWars.
+
+### Day 72: March 15, 2017 (Wednesday)
+
+**Today's Progress**: Completed "PI approximation", "Design a Simple Automaton", "Pascal's Triangle" Kata on CodeWars.
