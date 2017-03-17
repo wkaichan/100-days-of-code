@@ -295,3 +295,7 @@
 ### Day 72: March 15, 2017 (Wednesday)
 
 **Today's Progress**: Completed "PI approximation", "Design a Simple Automaton", "Pascal's Triangle" Kata on CodeWars.
+
+### Day 73: March 16, 2017 (Thursday)
+
+**Today's Progress**: Completed "Hard Time Bomb", "Sum Strings as Numbers" Kata on CodeWars.
