@@ -299,3 +299,7 @@
 ### Day 73: March 16, 2017 (Thursday)
 
 **Today's Progress**: Completed "Hard Time Bomb", "Sum Strings as Numbers" Kata on CodeWars.
+
+### Day 74: March 17, 2017 (Friday)
+
+**Today's Progress**: Completed "Complex CSV Parser" Kata on CodeWars.
