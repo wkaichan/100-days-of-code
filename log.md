@@ -303,3 +303,7 @@
 ### Day 74: March 17, 2017 (Friday)
 
 **Today's Progress**: Completed "Complex CSV Parser" Kata on CodeWars.
+
+### Day 75: March 18, 2017 (Saturday)
+
+**Today's Progress**: Completed "bit Wise 2: SHIFT-iness", "Matrix Determinant", "Adding Big Numbers" Kata on CodeWars.
