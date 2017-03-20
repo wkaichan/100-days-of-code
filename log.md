@@ -307,3 +307,7 @@
 ### Day 75: March 18, 2017 (Saturday)
 
 **Today's Progress**: Completed "bit Wise 2: SHIFT-iness", "Matrix Determinant", "Adding Big Numbers" Kata on CodeWars.
+
+### Day 76: March 19, 2017 (Sunday)
+
+**Today's Progress**: Completed "The observed PIN", "Shortest code: Virus in Apple" Kata on CodeWars.
