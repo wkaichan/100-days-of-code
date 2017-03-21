@@ -311,3 +311,7 @@
 ### Day 76: March 19, 2017 (Sunday)
 
 **Today's Progress**: Completed "The observed PIN", "Shortest code: Virus in Apple" Kata on CodeWars.
+
+### Day 77: March 20, 2017 (Monday)
+
+**Today's Progress**: Completed "Explosive Sum", "Coordinates Validator" Kata on CodeWars.
