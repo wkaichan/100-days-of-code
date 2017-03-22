@@ -315,3 +315,7 @@
 ### Day 77: March 20, 2017 (Monday)
 
 **Today's Progress**: Completed "Explosive Sum", "Coordinates Validator" Kata on CodeWars.
+
+### Day 78: March 21, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Objectify a URL Query String", "Valid Braces" Kata on CodeWars.
