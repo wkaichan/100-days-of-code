@@ -319,3 +319,7 @@
 ### Day 78: March 21, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Objectify a URL Query String", "Valid Braces" Kata on CodeWars.
+
+### Day 79: March 22, 2017 (Wednesday)
+
+**Today's Progress**: Worked on "How many are smaller than me II?" Kata on CodeWars.
