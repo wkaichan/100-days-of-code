@@ -323,3 +323,7 @@
 ### Day 79: March 22, 2017 (Wednesday)
 
 **Today's Progress**: Worked on "How many are smaller than me II?" Kata on CodeWars.
+
+### Day 80: March 23, 2017 (Thursday)
+
+**Today's Progress**: Completed "Vigenère Cipher Helper", "Conway's Game of Life - Unlimited Edition", "Strip Comments" Kata on CodeWars.
