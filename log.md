@@ -327,3 +327,11 @@
 ### Day 80: March 23, 2017 (Thursday)
 
 **Today's Progress**: Completed "Vigenère Cipher Helper", "Conway's Game of Life - Unlimited Edition", "Strip Comments" Kata on CodeWars.
+
+### Day 81: March 24, 2017 (Friday)
+
+**Today's Progress**: Completed "Conway's Game of Life", "What's a Perfect Power anyway?", "Roman Numerals Decoder" Kata on CodeWars.
+
+### Day 82: March 25, 2017 (Saturday)
+
+**Today's Progress**: Completed "Pete the baker", worked on "Last digit of a large number" Kata on CodeWars.
