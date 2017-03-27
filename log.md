@@ -335,3 +335,7 @@
 ### Day 82: March 25, 2017 (Saturday)
 
 **Today's Progress**: Completed "Pete the baker", worked on "Last digit of a large number" Kata on CodeWars.
+
+### Day 83: March 26, 2017 (Sunday)
+
+**Today's Progress**: Completed "Convert A Hex String To RGB", "Sudoku Solution Validator", "String incrementer" Kata on CodeWars.
