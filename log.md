@@ -339,3 +339,7 @@
 ### Day 83: March 26, 2017 (Sunday)
 
 **Today's Progress**: Completed "Convert A Hex String To RGB", "Sudoku Solution Validator", "String incrementer" Kata on CodeWars.
+
+### Day 84: March 27, 2017 (Monday)
+
+**Today's Progress**: Completed "Simplifying multilinear polynomials", worked on "Battleship field validator" Kata on CodeWars.
