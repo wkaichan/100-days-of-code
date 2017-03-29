@@ -343,3 +343,7 @@
 ### Day 84: March 27, 2017 (Monday)
 
 **Today's Progress**: Completed "Simplifying multilinear polynomials", worked on "Battleship field validator" Kata on CodeWars.
+
+### Day 85: March 28, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Battleship field validator", "Sum of Intervals" Kata on CodeWars.
