@@ -347,3 +347,7 @@
 ### Day 85: March 28, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Battleship field validator", "Sum of Intervals" Kata on CodeWars.
+
+### Day 86: March 29, 2017 (Wednesday)
+
+**Today's Progress**: Completed "Memoized Fibonacci", "Make a spiral" Kata on CodeWars.
