@@ -351,3 +351,7 @@
 ### Day 86: March 29, 2017 (Wednesday)
 
 **Today's Progress**: Completed "Memoized Fibonacci", "Make a spiral" Kata on CodeWars.
+
+### Day 87: March 30, 2017 (Thursday)
+
+**Today's Progress**: Completed "Simple Pig Latin", worked on "Rail Fence Cipher: Encoding and Decoding" Kata on CodeWars.
