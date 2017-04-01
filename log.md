@@ -355,3 +355,7 @@
 ### Day 87: March 30, 2017 (Thursday)
 
 **Today's Progress**: Completed "Simple Pig Latin", worked on "Rail Fence Cipher: Encoding and Decoding" Kata on CodeWars.
+
+### Day 88: March 31, 2017 (Friday)
+
+**Today's Progress**: Completed "Multiplying numbers as strings" Kata on CodeWars.
