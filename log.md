@@ -359,3 +359,7 @@
 ### Day 88: March 31, 2017 (Friday)
 
 **Today's Progress**: Completed "Multiplying numbers as strings" Kata on CodeWars.
+
+### Day 89: April 1, 2017 (Saturday)
+
+**Today's Progress**: Completed "Perimeter of squares in a rectangle", "Merged String Checker" Kata on CodeWars.
