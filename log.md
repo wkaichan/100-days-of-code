@@ -363,3 +363,7 @@
 ### Day 89: April 1, 2017 (Saturday)
 
 **Today's Progress**: Completed "Perimeter of squares in a rectangle", "Merged String Checker" Kata on CodeWars.
+
+### Day 90: April 2, 2017 (Sunday)
+
+**Today's Progress**: Worked on "Rail Fence Cipher: Encoding and Decoding" Kata on CodeWars.
