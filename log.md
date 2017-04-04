@@ -367,3 +367,7 @@
 ### Day 90: April 2, 2017 (Sunday)
 
 **Today's Progress**: Worked on "Rail Fence Cipher: Encoding and Decoding" Kata on CodeWars.
+
+### Day 91: April 3, 2017 (Monday)
+
+**Today's Progress**: Completed "Rail Fence Cipher: Encoding and Decoding", "Find the missing term in an Arithmetic Progression", "Count the likes" Kata on CodeWars.
