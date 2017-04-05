@@ -371,3 +371,7 @@
 ### Day 91: April 3, 2017 (Monday)
 
 **Today's Progress**: Completed "Rail Fence Cipher: Encoding and Decoding", "Find the missing term in an Arithmetic Progression", "Count the likes" Kata on CodeWars.
+
+### Day 92: April 4, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Elemental Words", "Calculating with Functions" Kata on CodeWars.
