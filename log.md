@@ -375,3 +375,7 @@
 ### Day 92: April 4, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Elemental Words", "Calculating with Functions" Kata on CodeWars.
+
+### Day 93: April 5, 2017 (Wednesday)
+
+**Today's Progress**: Worked on "Text align justify" Kata on CodeWars.
