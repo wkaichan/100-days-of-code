@@ -379,3 +379,7 @@
 ### Day 93: April 5, 2017 (Wednesday)
 
 **Today's Progress**: Worked on "Text align justify" Kata on CodeWars.
+
+### Day 94: April 6, 2017 (Thursday)
+
+**Today's Progress**: Completed "Text align justify", "Validate Sudoku with size NxN", "Remove Zeros" Kata on CodeWars.
