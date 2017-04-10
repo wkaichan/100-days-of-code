@@ -391,3 +391,7 @@
 ### Day 96: April 8, 2017 (Saturday)
 
 **Today's Progress**: Completed "Pyramid Slide Down", "Large Factorials" Kata on CodeWars.
+
+### Day 97: April 9, 2017 (Sunday)
+
+**Today's Progress**: Worked on "Functional Lists" Kata on CodeWars.
