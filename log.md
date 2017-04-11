@@ -395,3 +395,7 @@
 ### Day 97: April 9, 2017 (Sunday)
 
 **Today's Progress**: Worked on "Functional Lists" Kata on CodeWars.
+
+### Day 98: April 10, 2017 (Monday)
+
+**Today's Progress**: Completed "Sudoku Solver" Kata on CodeWars.
