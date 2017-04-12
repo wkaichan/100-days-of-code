@@ -399,3 +399,7 @@
 ### Day 98: April 10, 2017 (Monday)
 
 **Today's Progress**: Completed "Sudoku Solver" Kata on CodeWars.
+
+### Day 99: April 11, 2017 (Tuesday)
+
+**Today's Progress**: Completed "Pick peaks", "Prefill an Array" Kata on CodeWars.
