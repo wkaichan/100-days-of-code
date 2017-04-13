@@ -403,3 +403,7 @@
 ### Day 99: April 11, 2017 (Tuesday)
 
 **Today's Progress**: Completed "Pick peaks", "Prefill an Array" Kata on CodeWars.
+
+### Day 100: April 12, 2017 (Wednesday)
+
+**Today's Progress**: Completed "Write out numbers", "Rot13", "1's, 0's and wildcards" Kata on CodeWars.
