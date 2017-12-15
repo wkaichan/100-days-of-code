@@ -14,4 +14,8 @@ Trained "Titanic" data set with neural network (TensorFlow's DNNClassifier) in P
 
 ### Day 3 (12/13/2017)
 
-Worked on code to handle missing values in "Titanic" data set in Python.
+Worked on code to replace missing values in "Titanic" data set in Python.
+
+### Day 4 (12/14/2017)
+
+Worked on code to replace missing values by using regression in "Titanic" data set in Python.
