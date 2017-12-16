@@ -19,3 +19,7 @@ Worked on code to replace missing values in "Titanic" data set in Python.
 ### Day 4 (12/14/2017)
 
 Worked on code to replace missing values by using regression in "Titanic" data set in Python.
+
+### Day 5 (12/15/2017)
+
+Worked on code to replace missing values by using regression in "Titanic" data set in Python.
