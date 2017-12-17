@@ -23,3 +23,7 @@ Worked on code to replace missing values by using regression in "Titanic" data s
 ### Day 5 (12/15/2017)
 
 Worked on code to replace missing values by using regression in "Titanic" data set in Python.
+
+### Day 6 (12/16/2017)
+
+Worked on code to perform cross-validation in Python.
