@@ -39,3 +39,7 @@ Worked on plotting training and validation scores with Python's Pandas library.
 ### Day 9 (12/19/2017)
 
 Worked on plotting training and validation scores with Python's Pandas library.
+
+### Day 10 (12/20/2017)
+
+Worked on plotting training and validation scores with Python's Pandas library.
