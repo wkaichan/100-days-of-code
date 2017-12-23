@@ -47,3 +47,7 @@ Worked on plotting training and validation scores with Python's Pandas library.
 ### Day 11 (12/21/2017)
 
 Worked on plotting training and validation scores vs. number of rounds with Python's Pandas library.
+
+### Day 12 (12/22/2017)
+
+Worked on plotting training and validation scores vs. number of rounds with Python's Pandas library. Set up Solr 7.2.0, which was released yesterday, and will check that out soon.
