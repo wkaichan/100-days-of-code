@@ -51,3 +51,7 @@ Worked on plotting training and validation scores vs. number of rounds with Pyth
 ### Day 12 (12/22/2017)
 
 Worked on plotting training and validation scores vs. number of rounds with Python's Pandas library. Set up Solr 7.2.0, which was released yesterday, and will check that out soon.
+
+### Day 13 (12/23/2017)
+
+Experimented with Solr 7's Java API.
