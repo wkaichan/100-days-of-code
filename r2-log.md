@@ -55,3 +55,7 @@ Worked on plotting training and validation scores vs. number of rounds with Pyth
 ### Day 13 (12/23/2017)
 
 Experimented with Solr 7's Java API.
+
+### Day 14 (12/24/2017)
+
+Experimented with Solr 7's Java API.
