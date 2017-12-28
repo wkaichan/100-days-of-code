@@ -67,3 +67,7 @@ Experimented with Solr 7's Java API.
 ### Day 16 (12/26/2017)
 
 Experimented with Solr 7's Java API.
+
+### Day 17 (12/27/2017)
+
+Experimented with Solr 7's Java API.
