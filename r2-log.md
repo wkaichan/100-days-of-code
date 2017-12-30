@@ -75,3 +75,7 @@ Experimented with Solr 7's Java API.
 ### Day 18 (12/28/2017)
 
 Experimented with Solr 7's Java API. Created [LUCENE-8111](https://issues.apache.org/jira/browse/LUCENE-8111) in ASF JIRA.
+
+### Day 19 (12/29/2017)
+
+Experimented with Solr 7's Java API.
