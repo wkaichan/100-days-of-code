@@ -87,3 +87,7 @@ Experimented with Solr 7's Java API.
 ### Day 21 (12/31/2017)
 
 Experimented with Solr 7's Java API. Looked into [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746).
+
+### Day 22 (1/1/2018)
+
+Experimented with Solr 7's Java API. Looked into [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746).
