@@ -91,3 +91,7 @@ Experimented with Solr 7's Java API. Looked into [SOLR-11746](https://issues.apa
 ### Day 22 (1/1/2018)
 
 Experimented with Solr 7's Java API. Looked into [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746).
+
+### Day 23 (1/2/2018)
+
+Worked on a Node.js/Express web app. Checked out Lucene/Solr code into an Eclipse project.
