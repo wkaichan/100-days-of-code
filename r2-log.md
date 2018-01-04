@@ -95,3 +95,7 @@ Experimented with Solr 7's Java API. Looked into [SOLR-11746](https://issues.apa
 ### Day 23 (1/2/2018)
 
 Worked on a Node.js/Express web app. Checked out Lucene/Solr code into an Eclipse project.
+
+### Day 24 (1/3/2018)
+
+Created a JUnit test case that asserts that the Solr queries `foo_i:*` and `foo_i:[* TO *]` should be equal, based on suggestions in [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746).
