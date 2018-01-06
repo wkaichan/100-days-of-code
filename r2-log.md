@@ -103,3 +103,7 @@ Created a JUnit test case that asserts that the Solr queries `foo_i:*` and `foo_
 ### Day 25 (1/4/2018)
 
 Worked on a patch for [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746) to make SolrQueryParserBase return equal objects for the queries `foo_i:*` and `foo_i:[* TO *]`.
+
+### Day 26 (1/5/2018)
+
+Worked on a patch for [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746). Looked into [SOLR-10897](https://issues.apache.org/jira/browse/SOLR-10897).
