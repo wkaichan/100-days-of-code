@@ -107,3 +107,7 @@ Worked on a patch for [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11
 ### Day 26 (1/5/2018)
 
 Worked on a patch for [SOLR-11746](https://issues.apache.org/jira/browse/SOLR-11746). Looked into [SOLR-10897](https://issues.apache.org/jira/browse/SOLR-10897).
+
+### Day 27 (1/6/2018)
+
+Looked into several Solr tickets before settling on [SOLR-11761](https://issues.apache.org/jira/browse/SOLR-11761). Created a patch for that ticket.
