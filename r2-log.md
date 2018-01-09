@@ -115,3 +115,7 @@ Looked into several Solr tickets before settling on [SOLR-11761](https://issues.
 ### Day 28 (1/7/2018)
 
 Looked into several Solr tickets before settling on [SOLR-11633](https://issues.apache.org/jira/browse/SOLR-11633). Created a patch for that ticket.
+
+### Day 29 (1/8/2018)
+
+Looked into [SOLR-8634](https://issues.apache.org/jira/browse/SOLR-8634) and wrote a test case for it.
