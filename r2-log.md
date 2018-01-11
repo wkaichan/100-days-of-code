@@ -123,3 +123,7 @@ Looked into [SOLR-8634](https://issues.apache.org/jira/browse/SOLR-8634) and wro
 ### Day 30 (1/9/2018)
 
 Looked into [SOLR-8237](https://issues.apache.org/jira/browse/SOLR-8237) and wrote a test case for it.
+
+### Day 31 (1/10/2018)
+
+Looked into [SOLR-11792](https://issues.apache.org/jira/browse/SOLR-11792).
