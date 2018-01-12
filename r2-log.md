@@ -127,3 +127,7 @@ Looked into [SOLR-8237](https://issues.apache.org/jira/browse/SOLR-8237) and wro
 ### Day 31 (1/10/2018)
 
 Looked into [SOLR-11792](https://issues.apache.org/jira/browse/SOLR-11792).
+
+### Day 32 (1/11/2018)
+
+Looked into [SOLR-11792](https://issues.apache.org/jira/browse/SOLR-11792).
