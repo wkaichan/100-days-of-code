@@ -135,3 +135,7 @@ Looked into [SOLR-11792](https://issues.apache.org/jira/browse/SOLR-11792).
 ### Day 33 (1/12/2018)
 
 Worked on adding React Router routers to a web app.
+
+### Day 34 (1/13/2018)
+
+Worked on adding React Router routers to a web app.
