@@ -151,3 +151,7 @@ Worked on adding React Router routers to a web app.
 ### Day 37 (1/16/2018)
 
 Worked on adding "download Excel spreadsheet" function to a web app with JavaScript and js-xlsx.
+
+### Day 38 (1/17/2018)
+
+Worked on adding "download Excel spreadsheet" function to a web app with JavaScript and js-xlsx.
