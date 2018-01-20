@@ -159,3 +159,7 @@ Worked on adding "download Excel spreadsheet" function to a web app with JavaScr
 ### Day 39 (1/18/2018)
 
 Worked on customizing spreadsheet with JavaScript and js-xlsx.
+
+### Day 40 (1/19/2018)
+
+Worked on refactoring a web app.
