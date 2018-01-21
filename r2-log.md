@@ -163,3 +163,7 @@ Worked on customizing spreadsheet with JavaScript and js-xlsx.
 ### Day 40 (1/19/2018)
 
 Worked on refactoring a web app.
+
+### Day 41 (1/20/2018)
+
+Worked on refactoring a web app.
