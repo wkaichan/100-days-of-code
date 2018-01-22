@@ -167,3 +167,7 @@ Worked on refactoring a web app.
 ### Day 41 (1/20/2018)
 
 Worked on refactoring a web app.
+
+### Day 42 (1/21/2018)
+
+Worked on refactoring a web app.
