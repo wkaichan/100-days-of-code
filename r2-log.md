@@ -175,3 +175,7 @@ Worked on refactoring a web app.
 ### Day 43 (1/22/2018)
 
 Worked on a sortable table for a web app.
+
+### Day 44 (1/23/2018)
+
+Worked on a sortable table for a web app.
