@@ -179,3 +179,7 @@ Worked on a sortable table for a web app.
 ### Day 44 (1/23/2018)
 
 Worked on a sortable table for a web app.
+
+### Day 45 (1/24/2018)
+
+Worked on a sortable table for a web app.
