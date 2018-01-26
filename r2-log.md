@@ -183,3 +183,7 @@ Worked on a sortable table for a web app.
 ### Day 45 (1/24/2018)
 
 Worked on a sortable table for a web app.
+
+### Day 46 (1/25/2018)
+
+Worked on a sortable table for a web app.
