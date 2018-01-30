@@ -199,3 +199,7 @@ Worked on filtering data in a sortable table for a web app.
 ### Day 49 (1/28/2018)
 
 Experimented with Python and unicode supplementary characters support.
+
+### Day 50 (1/29/2018)
+
+Worked on filtering data in a sortable table for a web app.
