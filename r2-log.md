@@ -203,3 +203,7 @@ Experimented with Python and unicode supplementary characters support.
 ### Day 50 (1/29/2018)
 
 Worked on filtering data in a sortable table for a web app.
+
+### Day 51 (1/30/2018)
+
+Worked on filtering data in a sortable table for a web app.
