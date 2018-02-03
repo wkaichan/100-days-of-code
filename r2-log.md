@@ -215,3 +215,7 @@ Worked on filtering data in a sortable table for a web app.
 ### Day 53 (2/1/2018)
 
 Worked on filtering data in a sortable table for a web app.
+
+### Day 54 (2/2/2018)
+
+Worked on filtering data in a sortable table for a web app.
