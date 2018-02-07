@@ -231,3 +231,7 @@ Worked on exporting/downloading data for a web app.
 ### Day 57 (2/5/2018)
 
 Worked on exporting/downloading data for a web app.
+
+### Day 58 (2/6/2018)
+
+Worked on exporting/downloading data for a web app.
