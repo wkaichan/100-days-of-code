@@ -235,3 +235,7 @@ Worked on exporting/downloading data for a web app.
 ### Day 58 (2/6/2018)
 
 Worked on exporting/downloading data for a web app.
+
+### Day 59 (2/7/2018)
+
+Worked on filtering data in a sortable table for a web app.
