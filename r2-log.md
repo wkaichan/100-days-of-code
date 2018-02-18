@@ -271,3 +271,11 @@ Worked on refactoring a web app.
 ### Day 67 (2/15/2018)
 
 Worked on adding Google Maps to a web app with react-google-maps.
+
+### Day 68 (2/16/2018)
+
+Worked on adding Google Maps to a web app with react-google-maps.
+
+### Day 69 (2/17/2018)
+
+Worked on adding Google Maps to a web app with react-google-maps.
