@@ -303,3 +303,7 @@ Worked on adding Google Maps to a web app with react-google-maps.
 ### Day 75 (2/23/2018)
 
 Worked on adding Google Maps to a web app with react-google-maps.
+
+### Day 76 (2/24/2018)
+
+Worked on adding Google Maps to a web app with react-google-maps.
