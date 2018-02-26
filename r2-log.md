@@ -307,3 +307,7 @@ Worked on adding Google Maps to a web app with react-google-maps.
 ### Day 76 (2/24/2018)
 
 Worked on adding Google Maps to a web app with react-google-maps.
+
+### Day 77 (2/25/2018)
+
+Replaced react-google-maps with google-maps-react, since I could not get the former to not refresh the whole map when individual markers changed.
