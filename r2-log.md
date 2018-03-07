@@ -343,3 +343,7 @@ Worked on connecting a web app to MongoDB.
 ### Day 85 (3/5/2018)
 
 Worked on connecting a web app to MongoDB.
+
+### Day 86 (3/6/2018)
+
+Worked on fetching data for a web app.
