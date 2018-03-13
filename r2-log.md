@@ -367,3 +367,7 @@ Worked on fetching data for a web app.
 ### Day 91 (3/11/2018)
 
 Worked on fetching data for a web app.
+
+### Day 92 (3/12/2018)
+
+Worked on fetching data for a web app.
