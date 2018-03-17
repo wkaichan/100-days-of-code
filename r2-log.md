@@ -383,3 +383,7 @@ Worked on fetching data for a web app.
 ### Day 95 (3/15/2018)
 
 Worked on fetching data for a web app.
+
+### Day 96 (3/16/2018)
+
+Worked on getting data from MongoDB instead of either a file or a webpage.
