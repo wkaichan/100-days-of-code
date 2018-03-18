@@ -387,3 +387,7 @@ Worked on fetching data for a web app.
 ### Day 96 (3/16/2018)
 
 Worked on getting data from MongoDB instead of either a file or a webpage.
+
+### Day 97 (3/17/2018)
+
+Worked on getting data from MongoDB instead of either a file or a webpage.
