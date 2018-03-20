@@ -395,3 +395,7 @@ Worked on getting data from MongoDB instead of either a file or a webpage.
 ### Day 98 (3/18/2018)
 
 Worked on getting data from MongoDB instead of either a file or a webpage.
+
+### Day 99 (3/19/2018)
+
+Worked on getting data from MongoDB instead of either a file or a webpage.
