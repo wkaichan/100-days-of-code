@@ -399,3 +399,7 @@ Worked on getting data from MongoDB instead of either a file or a webpage.
 ### Day 99 (3/19/2018)
 
 Worked on getting data from MongoDB instead of either a file or a webpage.
+
+### Day 100 (3/20/2018)
+
+Worked on adding a date selector to switch between data views of different dates.
